@@ -1,0 +1,14 @@
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\bin\Debug\net8.0\Ejercicio.exe
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\bin\Debug\net8.0\Ejercicio.deps.json
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\bin\Debug\net8.0\Ejercicio.runtimeconfig.json
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\bin\Debug\net8.0\Ejercicio.dll
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\bin\Debug\net8.0\Ejercicio.pdb
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\obj\Debug\net8.0\Ejercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\obj\Debug\net8.0\Ejercicio.AssemblyInfoInputs.cache
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\obj\Debug\net8.0\Ejercicio.AssemblyInfo.cs
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\obj\Debug\net8.0\Ejercicio.csproj.CoreCompileInputs.cache
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\obj\Debug\net8.0\Ejercicio.dll
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\obj\Debug\net8.0\refint\Ejercicio.dll
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\obj\Debug\net8.0\Ejercicio.pdb
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\obj\Debug\net8.0\Ejercicio.genruntimeconfig.cache
+C:\Users\tahly\Desktop\Laboratorio #4\Ejercicio\obj\Debug\net8.0\ref\Ejercicio.dll
